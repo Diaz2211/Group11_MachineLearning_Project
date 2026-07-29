@@ -13,4 +13,4 @@ Chạy mô hình ViT: python source_code/src/vitmain.py
 
 # Kết quả hiển thị ngay trên webcam
 
-Bấm q để đóng chương trình
+Bấm q để đóng chương trình.
