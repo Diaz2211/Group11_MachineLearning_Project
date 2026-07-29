@@ -1,5 +1,5 @@
-Nhóm 11
-Xây dựng hệ thống nhận diện biển báo giao thông theo thời gian thực
+# Nhóm 11
+# Xây dựng hệ thống nhận diện biển báo giao thông theo thời gian thực
 
 # Cách chạy chương trình
 Truy cập source_code/src/model/best_model_v2.h5 để tải mô hình. 
