@@ -3,6 +3,8 @@
 
 Link tải dataset: https://drive.google.com/file/d/1HGz8B2gHu_KQxE3Ni3k_umhhhY8dGXqy/view?usp=sharing
 
+Cài đặt thư viện: pip install -r requirements.txt
+
 # Cách chạy chương trình
 Truy cập source_code/src/model/best_model_v2.h5 để tải mô hình.  
 Chạy mô hình CNN: python source_code/src/cnnmain.py
